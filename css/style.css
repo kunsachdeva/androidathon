@@ -1,0 +1,5 @@
+﻿body{margin:0px;padding:0px;background-color:black;font-family:'Segoe UI'}
+input{margin:0px;font-family:inherit}
+#head{padding-left:10px;color:white;font-size:18px;}
+.spacer{height:8px;background-color:grey;}
+input[type="search"]{background-color:transparent;border:none;width:100%;color:white;padding-left:10px;}
